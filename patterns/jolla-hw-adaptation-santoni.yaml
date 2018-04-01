@@ -80,6 +80,9 @@ Requires:
 #- qt5-qtmultimedia-plugin-mediaservice-irisradio
 #- jolla-mediaplayer-radio
 
+# For flashlight
+- jolla-settings-system-flashlight
+
 # For MicroSD access.
 - sd-utils
 
