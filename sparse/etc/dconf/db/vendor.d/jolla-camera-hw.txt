@@ -30,13 +30,13 @@ focusDistance=4
 
 [apps/jolla-camera/primary/video]
 imageResolution='3840x2160'
-videoResolution='3840x2160'
+videoResolution='1920x1080'
 viewfinderResolution='1280x720'
 videoFrameRate=30
 isoValues=[0, 100, 200, 400]
 whiteBalanceValues=[0, 3, 2, 6, 5]
 focusDistanceValues=[4, 16]
-flashValues=[2]
+flashValues=[2, 32]
 exposureCompensationValues=[4, 2, 0, -2, -4]
 focusDistance=16
 
@@ -51,3 +51,4 @@ focusDistanceValues=[4]
 flashValues=[2]
 exposureCompensationValues=[4, 2, 0, -2, -4]
 focusDistance=4
+
