@@ -81,7 +81,7 @@ Requires:
 #- jolla-mediaplayer-radio
 
 # Camera settings
-- camera-settings-plugin
+# - camera-settings-plugin
 
 # For flashlight
 - jolla-settings-system-flashlight
