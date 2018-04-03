@@ -31,6 +31,11 @@ Requires:
 - qt5-plugin-generic-evdev
 
 - pulseaudio-modules-droid
+# For calls to work:
+- pulseaudio-modules-droid-glue
+
+# Fixes Calls
+- pulseaudio-modules-droid-glue
 # for audio recording to work:
 - qt5-qtmultimedia-plugin-mediaservice-gstmediacapture
 
