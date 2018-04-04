@@ -19,6 +19,8 @@
 
 Provides: ofono-configs
 
+%define ofono_enable_plugins hfp_ag_bluez5
+
 %include droid-configs-device/droid-configs.inc
 
 # IMPORTANT if you want to comment out any macros in your .spec, delete the %

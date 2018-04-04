@@ -80,8 +80,8 @@ Requires:
 - geoclue-provider-hybris
 
 # For FM radio on some QCOM devices
-#- qt5-qtmultimedia-plugin-mediaservice-irisradio
-#- jolla-mediaplayer-radio
+- qt5-qtmultimedia-plugin-mediaservice-irisradio
+- jolla-mediaplayer-radio
 
 # For flashlight
 - jolla-settings-system-flashlight
